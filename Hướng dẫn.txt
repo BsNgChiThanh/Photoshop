@@ -1,0 +1,13 @@
+First start delayed. Removed: Adobe Creative Cloud, msedgewebview2, telemetry. Does not require the 
+installation of libraries in the system. Leaves no traces in the system and registry. 
+Run in system language. Available languages:
+Czech, Danish, German, English:International (en_GB), English:en_US,Spanish,
+Spanish:Latin American, Finnish, French:Canadian, French, Hungarian, Italian, Japanese,
+Korean, Norwegian, Dutch, Polish, Brazilian Portuguese, Russian, Swedish, Turkish,
+Ukrainian, Simplified Chinese, Traditional Chinese, en_IL, en_AE, fr_MA.
+Change language: Editing\Settings\Interface\Interface language: OK
+CameraRaw: located in Photoshop\App\CameraRaw.
+Neural filters: located in Photoshop\App\Neural filters.
+Neural filters used from previous versions.
+Edit or delete if necessary.
+When finished, wait for the message: "Photoshop END OF WORK".
